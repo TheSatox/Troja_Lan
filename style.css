@@ -1,0 +1,44 @@
+.facebook{
+    width: 6%;
+    
+}
+
+.header-img{
+    width: 100%;
+    padding: 2% 2%;
+    
+}
+
+#regler{
+    margin-right: 30%;
+    color: #fff;
+    
+    
+}
+
+#regler-bild{
+    float: right;
+    margin-left: 10%;
+    margin-right: %
+    
+}
+
+.footer{
+    padding-top: 5%;
+    margin-top: 10%;
+    position: relative;
+    display: block;
+    color: #fff;
+}
+
+body{
+    background-image: url(/img/black-wallpaper-3.jpg);
+}
+
+.content{
+    margin-bottom: 25%;
+}
+
+p{
+    color: #fff;
+}
